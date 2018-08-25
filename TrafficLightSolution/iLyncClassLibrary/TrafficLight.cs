@@ -15,7 +15,7 @@ namespace iLyncClassLibrary
         //属性和字段
         //思考： 200个灯（每个灯有四种颜色：白色，绿色，黄色和红色） ---1: 白色  2：绿色   3：黄色  4：红色----》写下去！
         //我的想法：在同一个时刻，值显示两中演示：白色+ 绿色/黄色/红色：  就两种状态----bool类型(节约内存空间 )
-        //----字段Field------
+        //----字段Field-----
         private bool[,] light01 = new bool[20, 10];
         private bool[,] light02 = new bool[20, 10];
 
