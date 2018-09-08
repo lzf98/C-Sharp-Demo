@@ -73,7 +73,7 @@ namespace StudentManager
         {
             if (e.Button == MouseButtons.Left)
             {
-                currentXPosition = 0; //设置初始状态
+                currentXPosition = 0; //设置初始状态 试一下
                 currentYPosition = 0;
                 beginMove = false;
             }
