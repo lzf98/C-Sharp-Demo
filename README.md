@@ -1,3 +1,4 @@
-# README
 
-这是一些c#小例子
+hello gitbash
+这是第一个git命令
+
